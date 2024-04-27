@@ -20,7 +20,7 @@ python -m venv env
 ```
 
 ```bash
-.\newenv\Scripts\activate
+.\env\Scripts\activate
 ```
 
 #### STEPS 02 - Install the requirements
